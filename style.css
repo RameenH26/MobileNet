@@ -1,0 +1,57 @@
+body {
+font-family: 'Dela Gothic One', cursive;
+    background: palegreen;
+}
+.header_div{
+    background: white;
+    color:black;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div {
+    background: palegreen;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.main_div label{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+#camera {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+#result{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+.footer_div{
+    background: white;
+    border-radius: 15px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+    margin-bottom: 70px;
+}
+.footer_div img{
+    width: 70px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(61, 61, 61);
+    line-height: 3;
+    text-align: center;
+}
